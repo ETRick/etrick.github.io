@@ -31,6 +31,7 @@ Gmail : <rickshao11@gmail.com>
 你可以通过一下帐号联系我，同我分享编程的酸甜苦辣：
 
 + [Weibo](http://weibo.com/u/1836229252) - my sina weibo
++ [Douban](http://www.douban.com/people/59540342/) - you can find my book list here
 + [GitHub](https://github.com/ETRick) - let's go coding
 + [Stackoverflow](http://stackoverflow.com/users/3471709/rickshao) - coding questions and answers
 + [Twitter](https://twitter.com)-等我翻墙
