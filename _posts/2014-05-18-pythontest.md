@@ -1,10 +1,10 @@
 ---
 title: "python test"
 layout: post
-photo_url: "http://www.oschina.net/uploads/img/201202/23100211_A5zE.png"
+photo_url: "http://ww4.sinaimg.cn/mw600/94d3f261gw1dvanmieo5fj.jpg"
 comments: yes
 ---
-![](/res/283.jpg)
+
 
 ```python
 import gc, os, psutil
