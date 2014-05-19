@@ -4,7 +4,7 @@ layout: post
 photo_url: "http://www.oschina.net/uploads/img/201202/23100211_A5zE.png"
 comments: yes
 ---
-![](http://www.oschina.net/uploads/img/201202/23100211_A5zE.png)
+![](/res/283.jpg)
 
 ```python
 import gc, os, psutil
