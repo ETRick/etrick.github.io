@@ -1,0 +1,28 @@
+---
+title: "python test"
+layout: post
+photo_url: "http://www.52analysis.com/uploads/allimg/130906/1-130Z60044170-L.jpg"
+comments: yes
+---
+![](http://www.52analysis.com/uploads/allimg/130906/1-130Z60044170-L.jpg)
+
+```python
+import gc, os, psutil
+def test():
+  x = 0
+  for i in range(10000000):!
+  # xrange
+  x += i
+  return x
+def main():
+  print test()
+  gc.collect()
+  p = psutil.Process(os.getpid())
+  print p.get_memory_info()
+  if __name__ == "__main__":
+   main()
+main()
+
+```
+以上是一小段python代码,仅供测试！
+

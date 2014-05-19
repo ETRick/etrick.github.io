@@ -1,0 +1,4 @@
+```ruby
+def test
+end
+```
