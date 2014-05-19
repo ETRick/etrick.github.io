@@ -26,9 +26,9 @@ Gmail : <rickshao11@gmail.com>
 
 
 
-## Elsewhere
+## Some of My Accounts
 
-你可以通过一下帐号联系我，同我分享编程的酸甜苦辣：
+You can find me from websites below and it's really fabulous to share our joys and sorrows of coding life.
 
 + [Weibo](http://weibo.com/u/1836229252) - my sina weibo
 + [Douban](http://www.douban.com/people/59540342/) - you can find my book list here
