@@ -1,7 +1,7 @@
 ---
 title: "python test"
 layout: post
-photo_url: "http://ww4.sinaimg.cn/mw600/94d3f261gw1dvanmieo5fj.jpg"
+photo_url: "http://pic.baike.soso.com/p/20130621/20130621093244-1217468372.jpg"
 comments: yes
 ---
 
