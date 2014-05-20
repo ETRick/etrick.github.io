@@ -1,4 +1,3 @@
-
 ---
 title: "FirstBlog2"
 layout: post
