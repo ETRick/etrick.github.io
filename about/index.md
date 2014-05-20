@@ -8,7 +8,7 @@ title: About
 
 
 
-我是邵志恒(I'm Rickshao)。
+我是邵志恒(I'm Rickshao) smil e:)。
 
 Gmail : <rickshao11@gmail.com> 
 
