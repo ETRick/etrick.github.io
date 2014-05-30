@@ -4,7 +4,6 @@ layout: post
 comments: yes
 ---
 
-####对我有用的《 笔记本Ubuntu系统关闭独显+省电降温设置》+conky配置
 　　[来源于csdn博客](http://blog.csdn.net/wulong710/article/details/9210595)
 
 　　照这么做之后原本超级费电的ubuntu系统变得凉快了许多，对于不玩游戏的我来说(ubuntu本来就不是玩游戏的)毫无影响，心花怒放，哈哈。
