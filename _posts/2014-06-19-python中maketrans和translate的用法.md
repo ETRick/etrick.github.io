@@ -27,3 +27,8 @@ comments: yes
   `delchars=allchars.translate(allchars,'meng')`delchars包含了除’meng‘之外的所有字符。
 然后就可以使用translate函数来完成。
  `’me32n315g123‘.translate(allchars,delchars)`就会返回meng字符串。
+
+
+
+附：
+翻译表可以用来编程解凯撒密码！
