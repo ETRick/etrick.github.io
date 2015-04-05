@@ -8,34 +8,23 @@ title: About
 
 
 
-我是邵志恒(I'm Rickshao).
+我是邵志恒
+I'm Rick
 
-Gmail : <rickshao11@gmail.com> 
+Gmail : <zhiheng.rick@gmail.com> 
 
-
-
-
-简介略，以后补上。
-
-
-
-
-
-
-
-
+- Graduated from Jilin University（2015）
+- JAVA
+- GAME
 
 
 ## Some of My Accounts
 
 You can find me from websites below and it's really fabulous to share our joys and sorrows of coding life.
 
++ [bolg](http://blog.csdn.net/rickshaozhiheng) - my blog
 + [Weibo](http://weibo.com/u/1836229252) - my sina weibo
 + [Douban](http://www.douban.com/people/59540342/) - you can find my book list here
 + [GitHub](https://github.com/ETRick) - let's go coding
 + [Stackoverflow](http://stackoverflow.com/users/3471709/rickshao) - coding questions and answers
-+ [Twitter](https://twitter.com)-等我翻墙
-+ [Facebook](http://www.facebook.com) -同上
-+ [Zhihu](http://www.zhihu.com/people/shao-zhi-heng) - the same as below
-+ [Quora](https://www.quora.com/Rick-Shao-1) - share knowlege
-+ [Cnblogs](http://www.cnblogs.com/shaozhiheng) - my previous blog+
+
